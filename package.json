@@ -1,0 +1,37 @@
+{
+  "name": "sms-link",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Generate an SMS protocol link",
+  "license": "MIT",
+  "repository": "bendrucker/sms-link",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "sms",
+    "protocol",
+    "browser",
+    "ios",
+    "android"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.2",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-ok": "~1.0.0",
+    "ios-version": "~1.0.0",
+    "is-android": "~1.0.1",
+    "is-ios": "~1.0.0"
+  }
+}
