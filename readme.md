@@ -15,7 +15,7 @@ $ npm install --save sms-link
 ```js
 var smsLink = require('sms-link')
 
-smsLink({phone: '411', 'Hello world'})
+smsLink({phone: '411', body: 'Hello world'})
 // On iOS 8
 //=> sms:411&body=Hello%20world
 ```
