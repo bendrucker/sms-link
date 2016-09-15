@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "assert-ok": "~1.0.0",
-    "ios-version": "~1.0.0",
+    "ios-version": "~1.0.1",
     "is-android": "~1.0.1",
     "is-ios": "~1.0.0"
   }
