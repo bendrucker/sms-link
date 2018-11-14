@@ -1,4 +1,4 @@
-# sms-link [![Build Status](https://travis-ci.org/bendrucker/sms-link.svg?branch=master)](https://travis-ci.org/bendrucker/sms-link)
+# sms-link [![Build Status](https://travis-ci.org/bendrucker/sms-link.svg?branch=master)](https://travis-ci.org/bendrucker/sms-link) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/sms-link.svg)](https://greenkeeper.io/)
 
 > Generate an SMS protocol link
 
