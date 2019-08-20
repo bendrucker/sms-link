@@ -1,7 +1,7 @@
 {
   "name": "sms-link",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Generate an SMS protocol link",
   "license": "MIT",
   "repository": "bendrucker/sms-link",
