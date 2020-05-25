@@ -23,7 +23,7 @@
   "devDependencies": {
     "proxyquire": "~2.1.0",
     "standard": "^14.0.0",
-    "tape": "^5.0.0"
+    "tape": "^5.0.1"
   },
   "files": [
     "index.js"
